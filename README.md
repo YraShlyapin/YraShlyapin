@@ -1,4 +1,4 @@
-### ✨Hi my name is Yura✨
+### ✨Hi my name is Yura, I am a fullstack developer✨
 ___
 I love programming and getting creative in this area.
 
@@ -13,3 +13,7 @@ I love programming and getting creative in this area.
 *also i know:*
 
 <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"><img src="https://img.shields.io/badge/nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639">
+
+*contact:*
+
+<a href="https://t.me/Yuranchlk"><img src="https://img.shields.io/badge/telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4"></a><a href="https://vk.com/y.shlyapin"><img src="https://img.shields.io/badge/vk-0d1117?style=for-the-badge&logo=vk&logoColor=0077FF"></a>
